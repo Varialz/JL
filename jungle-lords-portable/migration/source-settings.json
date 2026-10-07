@@ -1,0 +1,1040 @@
+{
+  "settings": {
+    "logo": "shopify://shop_images/IMG_2156.png",
+    "white_logo": "",
+    "logo_width": 70,
+    "logo_width_mobile": 70,
+    "favicon": "",
+    "color_text": "#070124",
+    "color_highlight": "#f59e0b",
+    "color_keyboard_focus": "#0b61cd",
+    "color_shadow": "#f49c08",
+    "color_image_background": "#fafafa",
+    "color_price": "#070124",
+    "color_sale_price": "#f59e0b",
+    "color_sale_tag": "#f59e0b",
+    "color_sale_tag_text": "#ffffff",
+    "color_button_text": "#ffffff",
+    "color_button_background": "#070124",
+    "color_button_gradient": "",
+    "color_drawer_text": "#070124",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_button_text": "#ffffff",
+    "color_drawer_button_background": "#070124",
+    "color_drawer_button_gradient": "",
+    "color_drawer_overlay": "#070124",
+    "color_success_text": "#4d7c0f",
+    "color_error_text": "#be123c",
+    "color_error_background": "#fff1f2",
+    "color_info_text": "#b45309",
+    "type_header_font": "itc_new_baskerville_n4",
+    "type_header_line_height": 1,
+    "type_header_spacing": -30,
+    "type_header_capitalize": false,
+    "type_body_font": "itc_charter_n4",
+    "type_body_size": 16,
+    "type_body_line_height": 1.2,
+    "type_body_spacing": 0,
+    "type_navigation_size": 16,
+    "type_navigation_capitalize": false,
+    "type_button_size": 16,
+    "type_button_capitalize": false,
+    "type_product_size": 16,
+    "type_product_capitalize": false,
+    "page_width": 1900,
+    "rounded_button": "round-slight",
+    "rounded_input": "round-slight",
+    "rounded_swatch": "square",
+    "rounded_card": "square",
+    "rounded_block": "square",
+    "enable_page_transition": true,
+    "enable_lazy_image": true,
+    "buttons_hover": "standard",
+    "buttons_border_thickness": 2,
+    "buttons_border_opacity": 100,
+    "buttons_shadow_opacity": 0,
+    "buttons_shadow_horizontal_offset": 0,
+    "buttons_shadow_vertical_offset": 0,
+    "inputs_border_thickness": 0,
+    "inputs_border_opacity": 65,
+    "card_style": "card",
+    "card_text_alignment": "left",
+    "card_border_thickness": 0,
+    "card_border_opacity": 0,
+    "card_shadow_opacity": 10,
+    "card_shadow_horizontal_offset": 0,
+    "card_shadow_vertical_offset": 0,
+    "currency_code_enabled": false,
+    "swatch_config": "",
+    "product_image_ratio": "square",
+    "product_image_fill": true,
+    "product_vendor": true,
+    "product_secondary_image": true,
+    "product_rating": true,
+    "product_countdown": true,
+    "product_save_type": "percent",
+    "cart_type": "drawer",
+    "cart_icon": "cart",
+    "enable_search": false,
+    "predictive_search_recommendation": "",
+    "typewriter_effect_enabled": true,
+    "typewriter_starter_text": "",
+    "social_facebook_link": "https://www.facebook.com/junglelordschi/",
+    "social_twitter_link": "",
+    "social_instagram_link": "https://www.instagram.com/jungle_lords/",
+    "social_youtube_link": "",
+    "social_tiktok_link": "https://www.tiktok.com/@junglelords",
+    "social_snapchat_link": "",
+    "social_pinterest_link": "",
+    "social_tumblr_link": "",
+    "social_vimeo_link": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "share_telegram": true,
+    "share_whatsapp": true,
+    "share_email": true,
+    "checkout_logo_image": "shopify://shop_images/IMG_2156.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman'",
+    "checkout_body_font": "PT Serif",
+    "checkout_accent_color": "#f59e0b",
+    "checkout_button_color": "#f59e0b",
+    "checkout_error_color": "#ff6d6d",
+    "sections": {
+      "main-password-header": {
+        "type": "main-password-header",
+        "settings": {
+          "transparent_color_text": "#ffffff",
+          "transparent_color_button_text": "#ffffff",
+          "transparent_color_button_background": "#000000",
+          "transparent_color_button_gradient": "",
+          "color_drawer_text": "#ffffff",
+          "color_drawer_background": "#171717",
+          "color_drawer_button_text": "#ffffff",
+          "color_drawer_button_background": "#171717",
+          "color_drawer_button_gradient": "",
+          "color_drawer_overlay": "#000000",
+          "padding_top": 32,
+          "padding_bottom": 32
+        }
+      },
+      "main-password-footer": {
+        "type": "main-password-footer",
+        "settings": {
+          "transparent_color_text": "#ffffff",
+          "padding_top": 40,
+          "padding_bottom": 40
+        }
+      }
+    },
+    "content_for_index": [],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#000000",
+          "secondary_color": "#FFFFFF",
+          "ternary_color": "#6A6A6A",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": ""
+        }
+      },
+      "3735154525232246443": {
+        "type": "shopify://apps/sendvio-email-sms/blocks/app_block/6fb7816d-63ad-49f9-ae13-e7c831b17dc6",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  },
+  "homepage": {
+    "sections": {
+      "video-with-text-overlay": {
+        "type": "video-with-text-overlay",
+        "blocks": {
+          "heading": {
+            "type": "heading",
+            "settings": {
+              "heading": "",
+              "heading_size": "title-lg tracking-heading",
+              "heading_tag": "h2",
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          }
+        },
+        "block_order": [
+          "heading"
+        ],
+        "settings": {
+          "transparent_header": true,
+          "video": "shopify://files/videos/JL2 3.MOV",
+          "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+          "description": "",
+          "enable_video_autoplay": true,
+          "enable_video_looping": true,
+          "image_height": "750px",
+          "content_width": "large",
+          "content_position": "md:items-center md:justify-center",
+          "text_alignment": "center",
+          "video_url_mobile": "",
+          "image_height_mobile": "auto",
+          "content_position_mobile": "items-center justify-center",
+          "text_alignment_mobile": "center",
+          "color_text": "#ffffff",
+          "color_highlight": "#90fc02",
+          "gradient_highlight": "",
+          "color_button_text": "#171717",
+          "color_button_background": "#ffffff",
+          "color_button_gradient": "",
+          "color_overlay": "#000000",
+          "overlay_opacity": 50,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "divider": false,
+          "full_width": true,
+          "rounded": false
+        }
+      },
+      "scrolling-text-1": {
+        "type": "scrolling-text",
+        "blocks": {
+          "text": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "<em>RECORDING | EVENTS | COMMUNITY</em>",
+              "text_size": 130,
+              "text_font": "heading",
+              "stencil_text": true
+            }
+          }
+        },
+        "block_order": [
+          "text"
+        ],
+        "disabled": true,
+        "settings": {
+          "direction": "left",
+          "speed": 2,
+          "grid_horizontal": 70,
+          "enable_twin": true,
+          "enable_parallax": true,
+          "color_text": "",
+          "color_background": "",
+          "gradient_background": "",
+          "padding_top": 52,
+          "padding_bottom": 52,
+          "divider": false,
+          "rounded": false
+        }
+      },
+      "rich-text": {
+        "type": "rich-text",
+        "blocks": {
+          "text": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Welcome to Jungle Lords! We're thrilled to invite you to our creative compound nestled in the heart of Chicago's west side, encompassing neighborhoods like West Town, Ukrainian Village, Garfield Park, and Humboldt Park. With six years of operation in the Windy City, our journey began in 2019 in Pilsen, where we've had the privilege of collaborating with a myriad of talented individuals.</p><p>Since our start, we've continuously evolved, upgrading our equipment and expanding our facility by several thousand square feet. Beyond being a recording studio, Jungle Lords is a sanctuary\u2014a home away from home. Our aim is to craft an unforgettable experience every time you step into our space.</p><p>Having worked with renowned names in entertainment, we're equally passionate about nurturing emerging talent. From recording techniques to mastering the intricacies of session flow, we offer young creatives the opportunity to immerse themselves in every facet of the industry.</p><p>Community engagement is at the core of our ethos. We pride ourselves on our involvement within the community, striving to uplift and empower fellow creatives. As we look towards the future, our commitment remains \u2014we'll continue to champion talented individuals and push the boundaries of our work.</p><p>We're brimming with excitement for the projects that lie ahead and the endless possibilities of tomorrow. Rest assured, we'll spare no effort to ensure every client leaves with nothing short of 100% satisfaction. Begin your creative journey with us\u2014book your private session today. Welcome to Jungle Lords, where creativity knows no bounds. Where creativity runs wild!</p>",
+              "text_size": "subtext-md",
+              "text_max_size": 32,
+              "text_font": "body",
+              "secondary_color": false,
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          }
+        },
+        "block_order": [
+          "text"
+        ],
+        "settings": {
+          "text_alignment": "left",
+          "text_alignment_mobile": "left",
+          "heading": "<em>WHERE CREATIVITY RUNS WILD</em>",
+          "heading_size": "title-md",
+          "heading_alignment": "text-center md:items-center",
+          "heading_tag": "h2",
+          "subheading": "",
+          "description": "",
+          "button_label": "BOOK NOW",
+          "button_link": "shopify://collections/studios",
+          "highlighted_text": "scribble",
+          "highlighted_scribble": "basic-underline",
+          "color_text": "",
+          "color_background": "",
+          "gradient_background": "",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_button_text": "",
+          "color_button_background": "",
+          "color_button_gradient": "",
+          "padding_top": 72,
+          "padding_bottom": 36,
+          "divider": false,
+          "narrow": false,
+          "rounded": false
+        }
+      },
+      "video_kiBaLT": {
+        "type": "video",
+        "settings": {
+          "transparent_header": true,
+          "video": "shopify://files/videos/360render.MOV",
+          "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+          "description": "",
+          "enable_video_autoplay": false,
+          "enable_video_looping": false,
+          "image_height": "adapt",
+          "video_url_mobile": "",
+          "image_height_mobile": "auto",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "divider": false,
+          "full_width": true,
+          "rounded": false
+        }
+      },
+      "image_with_text_Rqg4VJ": {
+        "type": "image-with-text",
+        "blocks": {
+          "heading_6x7nw6": {
+            "type": "heading",
+            "settings": {
+              "heading": "<em><strong>CLUB ROOM</strong></em>",
+              "heading_size": "title-md",
+              "heading_tag": "h2",
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          },
+          "text_KyHEMV": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Step into Jungle Lords Studio's Club Room, where luxury meets technical excellence. Every detail is meticulously crafted to elevate your creative process, offering a premium selection of state-of-the-art equipment. From the legendary Avalon Design VT-737SP Channel Strip to the Solid State Logic Fusion Analog Master Processor, experience the pinnacle of audio engineering.</p><p>Immerse yourself in pristine audio reproduction with our meticulously curated monitoring setup featuring Eve SC207 2-way monitors, Yamaha HS8 speakers, and the powerful Focal Sub12 13-inch Powered Studio Subwoofer. Navigate your projects with unparalleled precision using cutting-edge interfaces like the Apollo x6 and the timeless warmth of the Neve Lunchbox, fully loaded with premium modules.</p><p>Capture every nuance of your sound with legendary microphones like the Neumann U87 AI and Neumann TLM102. Whether you're a seasoned professional or a burgeoning talent, Jungle Lords' Club Room sets the stage for unparalleled sonic exploration and creative mastery.</p>",
+              "text_size": "subtext-md",
+              "text_max_size": 32,
+              "text_font": "body",
+              "secondary_color": false,
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          },
+          "button_x3GgYc": {
+            "type": "button",
+            "settings": {
+              "button_label": "BOOK CLUB ROOM",
+              "button_link": "shopify://products/club-room",
+              "button_size": "md",
+              "button_secondary_style": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_6x7nw6",
+          "text_KyHEMV",
+          "button_x3GgYc"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/94D171B4-E8CE-4350-8A09-A38432FA29C0.heic",
+          "image_height": "650px",
+          "image_width": "medium",
+          "layout": "image_first",
+          "text_alignment": "left",
+          "image_mobile": "shopify://shop_images/35F0E79B-BB2F-4224-8F26-7BA845A4E6BB.heic",
+          "image_height_mobile": "auto",
+          "text_alignment_mobile": "left",
+          "color_text": "",
+          "color_background": "",
+          "gradient_background": "",
+          "color_background_2": "",
+          "gradient_background_2": "",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_button_text": "",
+          "color_button_background": "",
+          "color_button_gradient": "",
+          "padding_top": 72,
+          "padding_bottom": 72,
+          "divider": true,
+          "full_width": true,
+          "rounded": false,
+          "enable_parallax": true,
+          "parallax_direction": "zoom"
+        }
+      },
+      "image_with_text_overlay_C8jWfB": {
+        "type": "image-with-text-overlay",
+        "blocks": {
+          "subheading_CqznQq": {
+            "type": "subheading",
+            "settings": {
+              "subheading": "OUR SIGNATURE STUDIO",
+              "subheading_size": "subtitle-md",
+              "secondary_color": true
+            }
+          },
+          "heading_iRYeKt": {
+            "type": "heading",
+            "settings": {
+              "heading": "The Suite Room",
+              "heading_size": "title-lg tracking-heading",
+              "heading_tag": "h2",
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          }
+        },
+        "block_order": [
+          "subheading_CqznQq",
+          "heading_iRYeKt"
+        ],
+        "settings": {
+          "transparent_header": false,
+          "image": "shopify://shop_images/CF667E08-6027-434F-9B0A-F9466B891A92.heic",
+          "image_height": "650px",
+          "content_width": "small",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "image_height_mobile": "auto",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "color_text": "#ffffff",
+          "color_highlight": "#e0a580",
+          "gradient_highlight": "",
+          "color_button_text": "#171717",
+          "color_button_background": "#ffffff",
+          "color_button_gradient": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 70,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "divider": false,
+          "full_width": true,
+          "rounded": false,
+          "enable_parallax": true,
+          "parallax_direction": "vertical"
+        }
+      },
+      "blog-posts-collage": {
+        "type": "blog-posts-collage",
+        "disabled": true,
+        "settings": {
+          "blog": "",
+          "post_limit": 3,
+          "show_view_all": true,
+          "image_ratio": "landscape",
+          "show_tags": true,
+          "show_date": true,
+          "show_comments": true,
+          "show_author": false,
+          "show_excerpt": true,
+          "heading": "EVENTS",
+          "heading_size": "title-md",
+          "heading_alignment": "text-left md:items-end md:flex-row",
+          "heading_tag": "h2",
+          "subheading": "",
+          "description": "",
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "color_text": "",
+          "color_background": "",
+          "gradient_background": "",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_button_text": "",
+          "color_button_background": "",
+          "color_button_gradient": "",
+          "padding_top": 100,
+          "padding_bottom": 100,
+          "divider": false,
+          "full_width": false,
+          "rounded": false
+        }
+      },
+      "rich_text_HqkLXz": {
+        "type": "rich-text",
+        "blocks": {
+          "text_FXYNiV": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Enjoy all of our luxurious amenities we offer with our suite room. Some of our highlighted items include; private balcony over looking the city of Chicago, grill to cook food with your friends, a prep station to prepare your entrees, a fridge to keep your items cool, private bathroom with a shower, 24/7 security surveillance monitoring station, High-Speed internet. Come immerse yourself in a creative haven that gives the feeling of home all while having state of the art equipment to create your next big record!</p>",
+              "text_size": "subtext-md",
+              "text_max_size": 32,
+              "text_font": "body",
+              "secondary_color": false,
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          }
+        },
+        "block_order": [
+          "text_FXYNiV"
+        ],
+        "settings": {
+          "text_alignment": "left",
+          "text_alignment_mobile": "left",
+          "heading": "<em><strong>STEP INTO LUXURY, THE SUITE ROOM</strong></em>",
+          "heading_size": "title-md",
+          "heading_alignment": "text-center md:items-center",
+          "heading_tag": "h2",
+          "subheading": "",
+          "description": "",
+          "button_label": "BOOK SUITE ROOM",
+          "button_link": "shopify://products/suite-room",
+          "highlighted_text": "scribble",
+          "highlighted_scribble": "basic-underline",
+          "color_text": "",
+          "color_background": "",
+          "gradient_background": "",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_button_text": "",
+          "color_button_background": "",
+          "color_button_gradient": "",
+          "padding_top": 72,
+          "padding_bottom": 36,
+          "divider": false,
+          "narrow": false,
+          "rounded": false
+        }
+      },
+      "multicolumn_m8eJ6X": {
+        "type": "multicolumn",
+        "blocks": {
+          "column_HCxWUV": {
+            "type": "column",
+            "settings": {
+              "show_border": false,
+              "text_alignment": "left",
+              "text_alignment_mobile": "center",
+              "image_ratio": "adapt",
+              "heading": "",
+              "heading_size": "text-lg-2xl",
+              "text": "<p>Aja Monet </p><p>Babytron</p><p>Ben Gordon</p><p>Big Daddy Deja</p><p>BURU</p><p>Cece Bke<br/><br/>Chance The Rapper</p><p>Christian Rich<br/><br/>DJ L<br/><br/>Famous Dex</p><p>Gita</p><p>G-Money </p><p>G-Herbo</p>",
+              "button_label": "",
+              "button_link": "",
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          },
+          "column_k9FEDN": {
+            "type": "column",
+            "settings": {
+              "show_border": false,
+              "text_alignment": "left",
+              "text_alignment_mobile": "left",
+              "image_ratio": "adapt",
+              "heading": "",
+              "heading_size": "text-lg-2xl",
+              "text": "<p>HottieBoyStich</p><p>Jekhai<br/></p><p>Jeremih<br/></p><p>Joey Purp </p><p>Juice Wrld<br/><br/>Justin Bieber<br/><br/>Kami</p><p>Lil Blessin</p><p>Lil Mexico</p><p>Lil Nuu</p><p>Lil Tjay</p><p>Lil Wet<br/><br/>Ludfoe</p><p></p>",
+              "button_label": "",
+              "button_link": "",
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          },
+          "column_9RV9Wq": {
+            "type": "column",
+            "settings": {
+              "show_border": false,
+              "text_alignment": "left",
+              "text_alignment_mobile": "left",
+              "image_ratio": "adapt",
+              "heading": "",
+              "heading_size": "text-lg-2xl",
+              "text": "<p>Murf Dilly</p><p>Pi'erre Bourne</p><p>Polo G</p><p>Rockie Fresh </p><p>Scorey</p><p>Stepdad</p><p>Stunna Gambino </p><p>VALEE</p><p>Vic Mensa</p><p>V1v1d</p><p>Z Money <br/><br/>SoFaygo<br/></p><p>PARTYNEXTDOOR</p><p></p><p></p>",
+              "button_label": "",
+              "button_link": "",
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          }
+        },
+        "block_order": [
+          "column_HCxWUV",
+          "column_k9FEDN",
+          "column_9RV9Wq"
+        ],
+        "settings": {
+          "columns": 3,
+          "columns_mobile": "1",
+          "swipe_on_mobile": true,
+          "heading": "WHO WE WORKED WITH",
+          "heading_size": "title-md",
+          "heading_alignment": "text-center md:items-center",
+          "heading_tag": "h2",
+          "subheading": "",
+          "description": "",
+          "button_label": "",
+          "button_link": "",
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "color_text": "",
+          "color_background": "",
+          "gradient_background": "",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_button_text": "",
+          "color_button_background": "",
+          "color_button_gradient": "",
+          "padding_top": 72,
+          "padding_bottom": 72,
+          "divider": false,
+          "full_width": false,
+          "rounded": false
+        }
+      },
+      "scrolling-text-2": {
+        "type": "scrolling-text",
+        "blocks": {
+          "image-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/unnamed.jpg",
+              "height": 60
+            }
+          },
+          "image-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/https___images.genius.com_ebad78004bc4ca5de306daf9dff7d59b.1000x1000x1.png",
+              "height": 60
+            }
+          },
+          "image-3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/shopping.jpg",
+              "height": 60
+            }
+          },
+          "image-4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/vic.jpg",
+              "height": 60
+            }
+          },
+          "image-5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/the_vtape.jpg",
+              "height": 60
+            }
+          },
+          "image-6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Hoodpoet.png",
+              "height": 60
+            }
+          },
+          "image-7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/632x632bb.webp",
+              "height": 60
+            }
+          }
+        },
+        "block_order": [
+          "image-1",
+          "image-2",
+          "image-3",
+          "image-4",
+          "image-5",
+          "image-6",
+          "image-7"
+        ],
+        "settings": {
+          "direction": "right",
+          "speed": 2.5,
+          "grid_horizontal": 140,
+          "enable_twin": true,
+          "enable_parallax": true,
+          "color_text": "",
+          "color_background": "#fde68a",
+          "gradient_background": "radial-gradient(rgba(255, 154, 98, 1), rgba(255, 204, 75, 1) 100%)",
+          "padding_top": 36,
+          "padding_bottom": 36,
+          "divider": false,
+          "rounded": false
+        }
+      },
+      "faq_eJ6a6M": {
+        "type": "faq",
+        "blocks": {
+          "question_ihePTY": {
+            "type": "question",
+            "settings": {
+              "title": "Can I book 1 hour sessions?",
+              "text": "<p><strong>No</strong>, we do not offer 1 hour sessions. <strong>Our minimum is 2 hours for any given session.</strong></p>",
+              "highlighted_text": "stencil",
+              "highlighted_scribble": "circle"
+            }
+          },
+          "question_ieFgJd": {
+            "type": "question",
+            "settings": {
+              "title": "Does the price include an engineer?",
+              "text": "<p><strong>Yes</strong>, we include an engineer in <strong>every session</strong>.</p>",
+              "highlighted_text": "none",
+              "highlighted_scribble": "circle"
+            }
+          }
+        },
+        "block_order": [
+          "question_ihePTY",
+          "question_ieFgJd"
+        ],
+        "settings": {
+          "style": "with-border",
+          "heading": "FAQs",
+          "heading_size": "title-md",
+          "heading_alignment": "text-left md:items-end md:flex-row",
+          "heading_tag": "h2",
+          "subheading": "",
+          "description": "",
+          "button_label": "",
+          "button_link": "",
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "color_text": "",
+          "color_background": "",
+          "gradient_background": "",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_button_text": "",
+          "color_button_background": "",
+          "color_button_gradient": "",
+          "padding_top": 72,
+          "padding_bottom": 72,
+          "divider": false,
+          "narrow": true,
+          "rounded": false
+        }
+      }
+    },
+    "order": [
+      "video-with-text-overlay",
+      "scrolling-text-1",
+      "rich-text",
+      "video_kiBaLT",
+      "image_with_text_Rqg4VJ",
+      "image_with_text_overlay_C8jWfB",
+      "blog-posts-collage",
+      "rich_text_HqkLXz",
+      "multicolumn_m8eJ6X",
+      "scrolling-text-2",
+      "faq_eJ6a6M"
+    ]
+  },
+  "engineers": {
+    "type": "collage",
+    "disabled": false,
+    "settings": {
+      "header-22634a37cb57780bdccc5f5702a32542": null,
+      "heading": "OUR ENGINEERS",
+      "heading_size": "title-md",
+      "heading_alignment": "text-left md:items-end md:flex-row",
+      "heading_tag": "h2",
+      "subheading": "",
+      "description": "<p>We host leading music producers, from Grammy champs to hometown heroes. Discover our skilled and acclaimed engineering staff.</p>",
+      "button_label": "",
+      "button_link": "",
+      "header-a9136d9ca6ab2c2c263d5a7f93c2a0d8": null,
+      "highlighted_text": "none",
+      "highlighted_scribble": "circle",
+      "header-75567ffdc805ffb655997585e0a9de69": null,
+      "color_text": "",
+      "color_background": "",
+      "gradient_background": "",
+      "color_highlight": "",
+      "gradient_highlight": "",
+      "color_button_text": "",
+      "color_button_background": "",
+      "color_button_gradient": "",
+      "header-29338f4ff1d588f2caeb70f354600323": null,
+      "padding_top": 72,
+      "padding_bottom": 72,
+      "divider": false,
+      "full_width": false,
+      "rounded": false,
+      "enable_parallax": true
+    },
+    "blocks": {
+      "image_33Wz9": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "C.E.O & Founder",
+          "heading": "Tiger",
+          "link": "https://www.instagram.com/tigergogoku/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/photo_apr_25_2024_5_36_32_pm.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-9199a8e55436d3a896b139796b01bb47": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-deff7509d7ca5b1f21c66fc500ed4ffb": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-71dd31c9b0b71f8089ddb748d8f2f504": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_ch8Vz": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "Tae",
+          "link": "https://www.instagram.com/taedakidd11/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/IMG_2170.jpg",
+          "image_ratio": "adapt",
+          "content_position": "md:items-start md:justify-end",
+          "text_alignment": "left",
+          "header-cd5b7c93236b54305517414ff2958b7c": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-4699841888df7ecc11f4f2813d704f45": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-a306f11112acdc54260c40d8fc48e5ce": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_7PMbw": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "EP1",
+          "link": "https://www.instagram.com/ep1sonics/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/P1422467.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-ce9cd15ed2b0fcddf7bee8c79a02fe56": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-6f1056bef633a8bd977f86f47e864e45": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-8f46db435bbe05aa9654a36de05a6c5d": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_n3CyW": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "KG",
+          "link": "https://www.instagram.com/flyb0ikg/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/4F64E91C-AB13-4544-B30D-B27E420B604A.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-4a657ba2785be219855b47005802c5ac": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-159770614b2da1c6b76cc86c3fd27ba6": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-be2ab0e261573ff66293938d6436fb32": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_gG3wT": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "Jevais",
+          "link": "https://www.instagram.com/soundsby8/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/P1433028.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-dffaee7d754bc8e5725c10be9a8062f8": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-26dfd4a40138d4476961a2dfdfdd2c25": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-5b8e2d8e897a70d65acd091bea06e94d": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_KqYU6": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "Vizy",
+          "link": "https://www.instagram.com/vizygottheheat_/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/lsd_headshots-3.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-dc24fbc64b79a1987c97f6c0477023ab": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-a58925e57db6a19e3fac811ca1ddd7e0": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-6278630e6b6261b7b38601a4094bea47": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_LdyRb": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "Jerryway",
+          "link": "https://www.instagram.com/jerrywaywaves/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/IMG_3757.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-78188d32cfb2823b062300eefa0657d7": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-507dc151056be01c352b542045d0949b": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-3c6a9c72709be7dc89a1ba7e8776c057": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_qfiBy": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "Drew",
+          "link": "https://www.instagram.com/mixedbydrew_/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/IMG_1297.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-6e39460bb98f14d3e3c4d94be4172b06": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-b5ae5afbaf1cba2254d5e6d2442e4c36": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-0f072d360ba41910cd76982b14c73d41": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      },
+      "image_MzHNc": {
+        "type": "image",
+        "disabled": false,
+        "settings": {
+          "subheading": "",
+          "heading": "Oz",
+          "link": "https://www.instagram.com/ozonthetrack/",
+          "invert_subheading_heading": false,
+          "image": "shopify://shop_images/9428A18A-8F37-49E7-AE38-88695B3D2D8E.heic",
+          "image_ratio": "portrait",
+          "content_position": "md:items-end md:justify-start",
+          "text_alignment": "left",
+          "header-0cf7658c55e7bb0b1011b64db9d66213": null,
+          "image_mobile": null,
+          "image_ratio_mobile": "portrait",
+          "content_position_mobile": "items-end justify-start",
+          "text_alignment_mobile": "left",
+          "header-6f3c350b0c06e182ebf4e5ddec32837b": null,
+          "highlighted_text": "none",
+          "highlighted_scribble": "circle",
+          "header-e137d122050540498ff267f7afecddf1": null,
+          "color_text": "#ffffff",
+          "color_highlight": "",
+          "gradient_highlight": "",
+          "color_overlay": "#171717",
+          "overlay_opacity": 10
+        }
+      }
+    },
+    "block_order": [
+      "image_33Wz9",
+      "image_ch8Vz",
+      "image_7PMbw",
+      "image_n3CyW",
+      "image_gG3wT",
+      "image_KqYU6",
+      "image_LdyRb",
+      "image_qfiBy",
+      "image_MzHNc"
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+Validation: JavaScript syntax passed; all local public links, anchors and assets resolve; no Liquid in public HTML; all 229 original files preserved byte-for-byte.
+Browser layout and runtime verification could not run because a browser executable was unavailable. Test booking, mobile layout, media and calendar links after filling in configuration before launch.

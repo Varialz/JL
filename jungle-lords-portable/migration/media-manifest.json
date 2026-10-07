@@ -1,0 +1,193 @@
+[
+  {
+    "original_reference": "shopify://shop_images/IMG_2156.png",
+    "used_in": [
+      "config/settings_data.json/current/logo",
+      "config/settings_data.json/current/checkout_logo_image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://files/videos/JL2 3.MOV",
+    "used_in": [
+      "templates/index.json/sections/video-with-text-overlay/settings/video"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://files/videos/360render.MOV",
+    "used_in": [
+      "templates/index.json/sections/video_kiBaLT/settings/video"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/94D171B4-E8CE-4350-8A09-A38432FA29C0.heic",
+    "used_in": [
+      "templates/index.json/sections/image_with_text_Rqg4VJ/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/35F0E79B-BB2F-4224-8F26-7BA845A4E6BB.heic",
+    "used_in": [
+      "templates/index.json/sections/image_with_text_Rqg4VJ/settings/image_mobile"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/CF667E08-6027-434F-9B0A-F9466B891A92.heic",
+    "used_in": [
+      "templates/index.json/sections/image_with_text_overlay_C8jWfB/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/unnamed.jpg",
+    "used_in": [
+      "templates/index.json/sections/scrolling-text-2/blocks/image-1/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/https___images.genius.com_ebad78004bc4ca5de306daf9dff7d59b.1000x1000x1.png",
+    "used_in": [
+      "templates/index.json/sections/scrolling-text-2/blocks/image-2/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/shopping.jpg",
+    "used_in": [
+      "templates/index.json/sections/scrolling-text-2/blocks/image-3/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/vic.jpg",
+    "used_in": [
+      "templates/index.json/sections/scrolling-text-2/blocks/image-4/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/the_vtape.jpg",
+    "used_in": [
+      "templates/index.json/sections/scrolling-text-2/blocks/image-5/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/Hoodpoet.png",
+    "used_in": [
+      "templates/index.json/sections/scrolling-text-2/blocks/image-6/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/632x632bb.webp",
+    "used_in": [
+      "templates/index.json/sections/scrolling-text-2/blocks/image-7/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/IMG_2170.jpg",
+    "used_in": [
+      "templates/page.json/sections/logo_list_F6JQFT/blocks/logo_yPynFL/settings/image",
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_ch8Vz/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/IMG_6643.heic",
+    "used_in": [
+      "templates/page.json/sections/logo_list_F6JQFT/blocks/logo_cgwHPK/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/IMG_0030.heic",
+    "used_in": [
+      "templates/page.about.json/sections/collage_dPbDA6/blocks/image_tNxXNy/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/photo_feb_24_2024_10_03_55_pm.heic",
+    "used_in": [
+      "templates/page.about.json/sections/collage_dPbDA6/blocks/image_44pbQG/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/IMG_1251.jpg",
+    "used_in": [
+      "templates/page.about.json/sections/collage_dPbDA6/blocks/image_xnN7RN/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/DSC05848.heic",
+    "used_in": [
+      "templates/page.about.json/sections/collage_dPbDA6/blocks/image_MEbArM/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/photo_apr_25_2024_5_36_32_pm.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_33Wz9/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/P1422467.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_7PMbw/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/4F64E91C-AB13-4544-B30D-B27E420B604A.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_n3CyW/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/P1433028.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_gG3wT/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/lsd_headshots-3.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_KqYU6/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/IMG_3757.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_LdyRb/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/IMG_1297.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_qfiBy/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  },
+  {
+    "original_reference": "shopify://shop_images/9428A18A-8F37-49E7-AE38-88695B3D2D8E.heic",
+    "used_in": [
+      "templates/page.full-width.context.us.json/sections/collage_nayLC/blocks/image_MzHNc/settings/image"
+    ],
+    "replacement_url_or_path": ""
+  }
+]
